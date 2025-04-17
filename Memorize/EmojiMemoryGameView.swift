@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//主视图
 struct EmojiMemoryGameView: View {
     @ObservedObject var viewModel:EmojiMemoryGame
     private let aspectRatio: CGFloat = 2/3
